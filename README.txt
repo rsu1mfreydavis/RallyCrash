@@ -1,6 +1,6 @@
 RallyCrash README
 ==========
-This is a small rally raceing game.
+This is a small rally racing game.
 
 It is developed by PixelPlayer2000 and Gobledegook.
 
